@@ -1,0 +1,1 @@
+{'calories': 340, 'total fat': 9, 'cholesterol': 30, 'sodium': 580, 'total carbohydrate': 13, 'sugars': 17, 'protein': 1190}
